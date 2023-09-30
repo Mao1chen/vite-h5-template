@@ -1,0 +1,3 @@
+const BASE_URL_USER = import.meta.env.VITE_API_BASE_URL_USER;
+const BASE_URL_DECLARE = import.meta.env.VITE_API_BASE_URL_DECLARE;
+export { BASE_URL_USER, BASE_URL_DECLARE };
